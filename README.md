@@ -32,6 +32,10 @@ https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 ## 🚧 Deployment Challenges
 Due to the 336MB size of the embeddings file, repeated downloads from an S3 bucket on a free-tier server caused data transfer limits to be exceeded. In its current state, the application works perfectly on local environments but needs a persistent or vector database-backed solution for production deployment.
 
+## Demo
+[![Watch the demo](https://youtu.be/LW-XN56iA1I)
+
+
 ## 📌 Known Limitations
 Dependent on large embeddings file
 
