@@ -1,6 +1,10 @@
 # Fashionista_AI
 Fashionista_AI is an AI-powered women’s fashion recommender that helps users discover wardrobe inspirations similar to an uploaded image. By leveraging deep learning and computer vision techniques, the system extracts visual features from the user’s photo and retrieves the most visually similar clothing items from a curated apparel database.
 
+![Image Description](https://github.com/bhavinbhatt278/Fashionista-AI/blob/main/Image_1.png)
+![Image Description](https://github.com/bhavinbhatt278/Fashionista-AI/blob/main/Img_2.png)
+
+
 ## 🚀 Features
 ✅ Upload a photo of a desired apparel style
 ✅ Extracts ResNet-based embeddings of the uploaded image
