@@ -26,7 +26,6 @@ Fashionista_AI is an AI-powered women’s fashion recommender that helps users d
 
 ## 🖼️ Dataset
 DeepFashion dataset (40,000 images sampled)
-
 https://mmlab.ie.cuhk.edu.hk/projects/DeepFashion.html
 
 ## 🚧 Deployment Challenges
@@ -37,11 +36,9 @@ Due to the 336MB size of the embeddings file, repeated downloads from an S3 buck
 
 
 ## 📌 Known Limitations
-Dependent on large embeddings file
-
-Free-tier servers spin down and reload data, incurring bandwidth costs
-
-Designed for demonstration; not yet integrated with a live e-commerce store
+* Dependent on large embeddings file
+* Free-tier servers spin down and reload data, incurring bandwidth costs
+* Designed for demonstration; not yet integrated with a live e-commerce store
 
 
 
